@@ -136,6 +136,6 @@ def main(path):
 
 
 if __name__ == "__main__":
-    path = "/content/drive/MyDrive/Heading-Paragraph-and-Language-detection-in-pdf/test.pdf"
+    path = "test.pdf"
     df = main(path)
     print(df)
