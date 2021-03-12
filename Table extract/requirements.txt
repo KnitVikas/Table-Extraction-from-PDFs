@@ -1,1 +1,2 @@
 camelot-py
+opencv-python
